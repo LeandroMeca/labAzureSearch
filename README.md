@@ -80,3 +80,7 @@
 <p>
   Essas informações podem ser utilizadas por aplicativos para gerar insights e funcionalidades inteligentes baseadas nos dados.
 </p>
+
+<h2>Minha experiência</h2>
+<p>A tecnologia é muito robusta e simples de interagir com um bom preparo tem muitas ferramentas a ser explorada</p>
+<p>as tenologia presente e recursos são incríveis</p>
